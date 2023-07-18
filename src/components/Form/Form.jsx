@@ -1,6 +1,5 @@
 import { Component } from "react";
 import { Label, Btn, Input, FormEl } from "./Form.styled";
-import PropTypes from 'prop-types';
 
 
 
